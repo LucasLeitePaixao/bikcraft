@@ -6,3 +6,5 @@
 @import "/bikcraft/css/utilidades/componentes.css";
 @import "/bikcraft/css/utilidades/tipografia.css";
 @import "/bikcraft/css/utilidades/cores.css";
+/*Bicicletas*/
+@import "/bikcraft/bicicletas/bicicletas-lista.css";
