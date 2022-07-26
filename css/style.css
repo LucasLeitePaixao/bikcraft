@@ -2,6 +2,7 @@
 /* Home*/
 @import "/bikcraft/css/global/header.css";
 @import "/bikcraft/css/home/introducao.css";
+@import "/bikcraft/css/home/tecnologia.css";
 /*Utilidades*/
 @import "/bikcraft/css/utilidades/componentes.css";
 @import "/bikcraft/css/utilidades/tipografia.css";
