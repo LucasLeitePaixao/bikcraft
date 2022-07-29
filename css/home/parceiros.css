@@ -1,6 +1,6 @@
 .parceiros {
   padding-top: 3.75rem;
-  padding-bottom: 7.5rem;
+  padding-bottom: 4.5rem;
 }
 .parceiros h2 {
   margin-bottom: 3.75rem;
@@ -30,10 +30,14 @@
     margin-bottom: 60px;
   }
   .parceiros h2 {
-    margin-bottom: 20px;
+    margin-bottom: 60px;
   }
   .parceiros ul {
     grid-template-columns: repeat(2, 1fr);
+  }
+  .parceiros li {
+    display: flex;
+    padding: 20px;
   }
   .parceiros li:nth-child(n + 3) {
     border-top: 2px solid #ededed;
