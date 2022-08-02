@@ -1,0 +1,42 @@
+.bicicletas-bg:nth-child(odd) {
+  background-color: #111111;
+}
+.bicicletas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.bicicletas-imagem {
+  position: relative;
+}
+.bicicletas-imagem span {
+  background: #000000;
+  padding: 8px 16px 8px 8px;
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  right: 0;
+  border-radius: 5px 0 0 5px;
+}
+.bicicletas-conteudo {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+.bicicletas-conteudo p,
+h2 {
+  grid-column: 1/-1;
+}
+.bicicletas-conteudo li {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.bicicletas a {
+  place-self: end;
+}
+.botao.seta {
+  display: flex;
+  align-items: center;
+}

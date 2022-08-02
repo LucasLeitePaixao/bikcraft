@@ -13,3 +13,6 @@
 @import "/bikcraft/css/utilidades/cores.css";
 /*Bicicletas*/
 @import "/bikcraft/bicicletas/bicicletas-lista.css";
+@import "/bikcraft/bicicletas/bicicletas.css";
+/*Termos*/
+@import "/bikcraft/css/termos/termos.css";
