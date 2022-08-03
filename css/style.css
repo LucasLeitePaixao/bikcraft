@@ -16,3 +16,6 @@
 @import "/bikcraft/bicicletas/bicicletas.css";
 /*Termos*/
 @import "/bikcraft/css/termos/termos.css";
+/*seguros*/
+@import "/bikcraft/css/seguros/vantagens.css";
+@import "/bikcraft/css/seguros/perguntas.css";
