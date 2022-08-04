@@ -56,7 +56,7 @@ h2 {
   width: 18px;
   height: 10px;
   margin-left: 12px;
-  background: url(../../bikcraft/img/icones/seta.svg);
+  background: url(../../img/icones/seta.svg);
 }
 .botao.seta {
   display: flex;

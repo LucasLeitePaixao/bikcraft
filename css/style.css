@@ -12,8 +12,10 @@
 @import "/bikcraft/css/utilidades/tipografia.css";
 @import "/bikcraft/css/utilidades/cores.css";
 /*Bicicletas*/
-@import "/bikcraft/bicicletas/bicicletas-lista.css";
-@import "/bikcraft/bicicletas/bicicletas.css";
+@import "/bikcraft/css/bicicletas/bicicletas-lista.css";
+@import "/bikcraft/css/bicicletas/bicicletas.css";
+/*Bicicleta Saiba+*/
+@import "/bikcraft/css/bicicleta/bicicleta.css";
 /*Termos*/
 @import "/bikcraft/css/termos/termos.css";
 /*seguros*/
