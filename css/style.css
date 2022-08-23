@@ -11,6 +11,7 @@
 @import "/bikcraft/css/utilidades/componentes.css";
 @import "/bikcraft/css/utilidades/tipografia.css";
 @import "/bikcraft/css/utilidades/cores.css";
+@import "/bikcraft/css/utilidades/fomulario.css";
 /*Bicicletas*/
 @import "/bikcraft/css/bicicletas/bicicletas-lista.css";
 @import "/bikcraft/css/bicicletas/bicicletas.css";
@@ -22,3 +23,8 @@
 /*seguros*/
 @import "/bikcraft/css/seguros/vantagens.css";
 @import "/bikcraft/css/seguros/perguntas.css";
+/*Contato*/
+@import "/bikcraft/css/contato/contato.css";
+@import "/bikcraft/css/contato/lojas.css";
+/*Orçamento*/
+@import "/bikcraft/css/orcamento/orcamento.css";
