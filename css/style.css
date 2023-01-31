@@ -1,30 +1,31 @@
-@import "/bikcraft/css/global/global.css";
+@import "./global/global.css";
 /* Home*/
-@import "/bikcraft/css/global/header.css";
-@import "/bikcraft/css/home/introducao.css";
-@import "/bikcraft/css/home/tecnologia.css";
-@import "/bikcraft/css/home/parceiros.css";
-@import "/bikcraft/css/home/depoimento.css";
-@import "/bikcraft/css/home/seguros.css";
-@import "/bikcraft/css/home/footer.css";
+@import "./global/header.css";
+@import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+@import "./home/seguros.css";
+@import "./home/footer.css";
 /*Utilidades*/
-@import "/bikcraft/css/utilidades/componentes.css";
-@import "/bikcraft/css/utilidades/tipografia.css";
-@import "/bikcraft/css/utilidades/cores.css";
-@import "/bikcraft/css/utilidades/fomulario.css";
+@import "./utilidades/componentes.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
+@import "./utilidades/fomulario.css";
+@import "./utilidades/animacao.css";
 /*Bicicletas*/
-@import "/bikcraft/css/bicicletas/bicicletas-lista.css";
-@import "/bikcraft/css/bicicletas/bicicletas.css";
+@import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
 /*Bicicleta Saiba+*/
-@import "/bikcraft/css/bicicleta/bicicleta.css";
-@import "/bikcraft/css/bicicleta/seguro.css";
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
 /*Termos*/
-@import "/bikcraft/css/termos/termos.css";
+@import "./termos/termos.css";
 /*seguros*/
-@import "/bikcraft/css/seguros/vantagens.css";
-@import "/bikcraft/css/seguros/perguntas.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
 /*Contato*/
-@import "/bikcraft/css/contato/contato.css";
-@import "/bikcraft/css/contato/lojas.css";
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 /*Orçamento*/
-@import "/bikcraft/css/orcamento/orcamento.css";
+@import "./orcamento/orcamento.css";
