@@ -22,7 +22,7 @@ function ativarProdutos(parametro) {
         elemento.checked = true;
     }
     
-    console.log(elemento)
+    console.log(elemento);
 }
 
  parametros.forEach(ativarProdutos);
@@ -33,15 +33,14 @@ function ativarProdutos(parametro) {
 
  function AtivarPergunta(event) {
     const pergunta = event.currentTarget;
-    const controls = pergunta.getAttribute('aria-controls')
+    const controls = pergunta.getAttribute('aria-controls');
     const resposta = document.getElementById(controls);
     
 
     resposta.classList.toggle("ativa");
     const ativa = resposta.classList.contains("ativa");
     console.log(ativa);
-    pergunta.setAttribute("aria-expanded", ativa); 
-  
+    pergunta.setAttribute("aria-expanded", ativa);  
  }
 
  function eventosPerguntas(pergunta) {
